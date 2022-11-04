@@ -11,7 +11,6 @@
 + [Instalación de Java](#id1)
 + [Instalando versiones específicas](#id2)
 + [Configuración del entorno](#id3)
-+ [Arreglar conflicto ](#id4)
 
 ### Instalación de Java  <a name=id1></a>
 
@@ -25,17 +24,17 @@ En un principio vamos a actualizar nuestra máquina para tener todas las librer�
 
 Instalaremos diferentes versiones de Java.
 
-![](img/img4.1.PNG)
-![](img/img4.2.PNG)
-![](img/img4.3.PNG)
+![](img/img4.1.png)
+![](img/img4.2.png)
+![](img/img4.3.png)
 
 Una vez instaladas nos daremos cuenta que se mantiene la versión mas reciente
 
-![](img/img4.4.PNG)
+![](img/img4.4.png)
 
 ### Configuración del entorno <a name=id3></a>
 
 Ahora listaremos las versiones instaladas previamente y seleccionaremos la versión en la que queremos trabajar.
 
-![](img/img5.1.PNG)
-![](img/img5.2.PNG)
+![](img/img5.1.png)
+![](img/img5.2.png)
